@@ -1,5 +1,4 @@
 ﻿# Presentación del Colaborador
-
-* **Nombre completo:** [Nombre del Compañero]
+* **Nombre:** [Nombre de tu compañero]
 * **Código:** [Código de estudiante]
-* **Presentación:** Estudiante de Ingeniería de Sistemas. Colaborador en el diseño base y arquitectura de software.
+* **Rol:** Colaborador en arquitectura de software
