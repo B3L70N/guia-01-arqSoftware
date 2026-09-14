@@ -10,3 +10,4 @@ Espero entender qué hace un arquitecto de software y cómo toma decisiones téc
 
 ## Evidencias
 
+![Texto alternativo](captura/Ev-1.png)
